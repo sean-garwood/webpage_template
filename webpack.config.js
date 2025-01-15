@@ -39,11 +39,10 @@ export default {
         resolve: {
           fullySpecified: false,
         },
-      }
+      },
     ],
   },
   resolve: {
-    alias: {
-    },
+    alias: {},
   },
 };
